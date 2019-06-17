@@ -11,5 +11,14 @@ public class GitDemo001 {
         System.out.println("git demo");
         System.out.println("git demo");
         System.out.println("git demo");
+
+    }
+
+    public void git() {
+        System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
+        System.out.println("test");
     }
 }
