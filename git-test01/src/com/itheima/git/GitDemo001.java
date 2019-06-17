@@ -11,7 +11,7 @@ public class GitDemo001 {
         System.out.println("git demo");
         System.out.println("git demo");
         System.out.println("git demo");
-
+        System.out.println("----------------");
     }
 
     public void git() {
@@ -20,5 +20,6 @@ public class GitDemo001 {
         System.out.println("test");
         System.out.println("test");
         System.out.println("test");
+        System.out.println("----------------");
     }
 }
